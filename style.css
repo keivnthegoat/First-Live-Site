@@ -1,6 +1,7 @@
 body {
     background-color: rgb(0, 0, 0);
     text-align: center;
+    background-image: url(https://www.videvo.net/video/raindrops-in-super-slow-motion/3313/);
 }
 
 h1{
@@ -22,3 +23,4 @@ div {
     border: 5px solid rgb(255, 255, 255);
     border-radius: 10px;
 }
+
